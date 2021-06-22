@@ -1,0 +1,8 @@
+------------------------------------------------------------------
+Weather Status for - RAJAPALAYAM  || 22 Jun 2021 | 09:36:45 PM
+------------------------------------------------------------------
+Current temperature is: 26.91 deg C
+weather: overcast clouds
+humidity: 56 %
+wind speed: 2.85kmph
+22 Jun 2021 | 09:36:45 PM
